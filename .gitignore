@@ -1,4 +1,4 @@
-idea/
+/idea
 *.iml
 *.class
-out/
+/out/production/Jogo_de_labirinto
